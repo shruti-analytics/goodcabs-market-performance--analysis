@@ -20,7 +20,7 @@ The SQL queries used for the analysis can be found [here.](https://github.com/sh
 
 <img width="1285" height="500" alt="Screenshot 2025-12-11 173807" src="https://github.com/user-attachments/assets/73fd245f-caab-434d-ab01-75bf0872ff71" />
 
-The comapny recorded 426K trips and ₹108M revenue in the last six months, with strong early-year momentum—both trips and revenue peaked in February–March before dipping noticeably by June, signaling a clear need to address mid-year demand slowdown. Passenger dynamics reveal a steady decline in new passenger acquisition from 36K in January to just 22K in June.City-wise performance shows large revenue concentration in Jaipur, Kochi, and Chandigarh, while several cities contribute minimally, highlighting uneven market penetration and the opportunity for targeted city-level strategy refinement.
+The company recorded 426K trips and ₹108M revenue in the last six months, with strong early-year momentum—both trips and revenue peaked in February–March before dipping noticeably by June, signaling a clear need to address mid-year demand slowdown. Passenger dynamics reveal a steady decline in new passenger acquisition from 36K in January to just 22K in June.City-wise performance shows large revenue concentration in Jaipur, Kochi, and Chandigarh, while several cities contribute minimally, highlighting uneven market penetration and the opportunity for targeted city-level strategy refinement.
 
 ### Deeper Dig Through
 
